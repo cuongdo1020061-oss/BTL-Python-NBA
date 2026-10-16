@@ -1,0 +1,5 @@
+﻿Model,Test_RMSE (log),Test_MAE (log),Test_R2,CV_RMSE (log),CV_MAE (log),CV_R2
+Random Forest,0.7144,0.5275,0.6637,0.8809,0.6278,0.5101
+XGBoost,0.6925,0.5273,0.684,0.888,0.6516,0.5021
+Linear Regression,0.7917,0.6043,0.587,0.8938,0.669,0.4956
+Ridge Regression,0.7775,0.587,0.6016,0.8985,0.6755,0.4903
